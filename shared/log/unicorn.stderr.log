@@ -1,0 +1,36 @@
+I, [2012-07-12T23:01:01.958455 #31088]  INFO -- : listening on addr=/tmp/.sock fd=3
+I, [2012-07-12T23:01:01.958949 #31088]  INFO -- : listening on addr=0.0.0.0:8080 fd=5
+I, [2012-07-12T23:01:01.959256 #31088]  INFO -- : Refreshing Gem list
+I, [2012-07-12T23:01:04.081371 #31095]  INFO -- : worker=1 ready
+I, [2012-07-12T23:01:04.095020 #31098]  INFO -- : worker=2 ready
+I, [2012-07-12T23:01:04.100478 #31093]  INFO -- : worker=0 ready
+I, [2012-07-12T23:01:04.101593 #31088]  INFO -- : master process ready
+I, [2012-07-12T23:01:04.112847 #31102]  INFO -- : worker=3 ready
+I, [2012-07-12T23:53:17.630968 #32340]  INFO -- : listening on addr=/home/ruby-on-rails/shared/sockets/unicorn.sock fd=3
+I, [2012-07-12T23:53:17.631364 #32340]  INFO -- : Refreshing Gem list
+I, [2012-07-12T23:53:19.273317 #32340]  INFO -- : master process ready
+I, [2012-07-12T23:53:19.286535 #32344]  INFO -- : worker=0 ready
+I, [2012-07-12T23:53:19.290544 #32349]  INFO -- : worker=2 ready
+I, [2012-07-12T23:53:19.291722 #32346]  INFO -- : worker=1 ready
+I, [2012-07-12T23:53:19.293327 #32353]  INFO -- : worker=3 ready
+I, [2012-07-12T23:56:59.972291 #32559]  INFO -- : unlinking existing socket=/home/ruby-on-rails/shared/sockets/unicorn.sock
+I, [2012-07-12T23:56:59.972585 #32559]  INFO -- : listening on addr=/home/ruby-on-rails/shared/sockets/unicorn.sock fd=3
+I, [2012-07-12T23:56:59.972876 #32559]  INFO -- : Refreshing Gem list
+I, [2012-07-12T23:57:01.427957 #32559]  INFO -- : master process ready
+I, [2012-07-12T23:57:01.446079 #32563]  INFO -- : worker=0 ready
+I, [2012-07-12T23:57:01.449912 #32565]  INFO -- : worker=1 ready
+I, [2012-07-12T23:57:01.450927 #32572]  INFO -- : worker=3 ready
+I, [2012-07-12T23:57:01.452245 #32568]  INFO -- : worker=2 ready
+I, [2012-07-12T23:57:15.891067 #32559]  INFO -- : reaped #<Process::Status: pid 32563 exit 0> worker=0
+I, [2012-07-12T23:57:15.891159 #32559]  INFO -- : reaped #<Process::Status: pid 32565 exit 0> worker=1
+I, [2012-07-12T23:57:15.891202 #32559]  INFO -- : reaped #<Process::Status: pid 32568 exit 0> worker=2
+I, [2012-07-12T23:57:15.891242 #32559]  INFO -- : reaped #<Process::Status: pid 32572 exit 0> worker=3
+I, [2012-07-12T23:57:15.891307 #32559]  INFO -- : master complete
+I, [2012-07-13T00:03:21.023788 #495]  INFO -- : unlinking existing socket=/home/ruby-on-rails/shared/sockets/unicorn.sock
+I, [2012-07-13T00:03:21.024178 #495]  INFO -- : listening on addr=/home/ruby-on-rails/shared/sockets/unicorn.sock fd=3
+I, [2012-07-13T00:03:21.024443 #495]  INFO -- : Refreshing Gem list
+I, [2012-07-13T00:03:22.593496 #495]  INFO -- : master process ready
+I, [2012-07-13T00:03:22.612058 #504]  INFO -- : worker=2 ready
+I, [2012-07-13T00:03:22.615347 #501]  INFO -- : worker=1 ready
+I, [2012-07-13T00:03:22.618392 #499]  INFO -- : worker=0 ready
+I, [2012-07-13T00:03:22.620460 #507]  INFO -- : worker=3 ready
